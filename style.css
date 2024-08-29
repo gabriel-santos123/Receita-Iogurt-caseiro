@@ -22,9 +22,9 @@ h4{
     color: pink;
 }
 p{
-    text-align: center;
+    text-align: right;
 }
 .container{
-    width: 60px;
-   text-align: right;
+    width: 600px;
+   text-align: left;
 }
