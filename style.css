@@ -36,11 +36,6 @@ p{
 }
 .container{
     width: 600px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100px; 
-    height: auto; 
 }
 ul{
     color: pink;
