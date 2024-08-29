@@ -49,3 +49,8 @@ ul{
     font-size: 20px;
     list-style-type: none;
 }
+.borda{
+    border: 2px;
+    border-radius: 1px;
+    border-color: pink;
+}
