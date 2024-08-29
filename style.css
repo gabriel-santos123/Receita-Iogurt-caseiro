@@ -36,7 +36,8 @@ p{
 }
 .container{
     width: 600px;
-position: right;
+    position: right;
+}
 ul{
     color: pink;
     font-size: 20px;
