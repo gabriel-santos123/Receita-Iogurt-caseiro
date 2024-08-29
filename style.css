@@ -36,6 +36,7 @@ p{
 }
 .container{
     width: 600px;
+    justify-content: right;
 }
 ul{
     color: pink;
