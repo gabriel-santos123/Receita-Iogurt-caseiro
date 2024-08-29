@@ -18,18 +18,21 @@ h2{
     color: pink;
     font-family: "Pacifico", cursive;
     font-size: 40px;
+    left: 2;
 }
 h3{
     text-align: left;
     color: pink;
     font-family: "Pacifico", cursive;
     font-size: 30px;
+    left: 2;
 }
 h4{
     text-align: left;
     color: pink;
     font-family: "Pacifico", cursive;
     font-size: 25px;
+    left: 2;
 }
 p{
     text-align: left;
