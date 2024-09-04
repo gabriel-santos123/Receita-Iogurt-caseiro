@@ -48,6 +48,7 @@ ul{
     color: pink;
     font-size: 20px;
     list-style-type: none;
+    text-align: left;
 }
 .borda{
     width: 100%;
